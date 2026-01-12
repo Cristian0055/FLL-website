@@ -4,10 +4,11 @@ body {
     padding: 0;
 }
 
-/* Navigation start*/
+/* Header start*/
 #head {
     background-color: #7b5b3e;
     display: flex;
+    margin: auto;
     justify-content: middle;
     position: relative;
 }
@@ -39,7 +40,15 @@ body {
 
 #CurrentWeb { 
     background-color: #a3a3a0;
-} /* Navigation end*/
+} 
+
+#pfp {
+    margin: -1.0em;
+    position: absolute;
+    margin-left: 84%;
+}
+
+/* Header end*/
 
 /*Main stuff start*/
 
